@@ -1,0 +1,6 @@
+{
+  "name": "SakhiSeva - Voice Assistant for Rural Women",
+  "description": "Voice-first multilingual AI assistant empowering rural Indian women with zero digital literacy to access essential government schemes like PM Ujjwala Yojana independently.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
